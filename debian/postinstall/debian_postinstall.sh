@@ -435,8 +435,8 @@ if [ $change_sshport = "y" ]
   tput bold; tput setaf 7; echo "                             Votre nouveau port SSH : $ssh_port                        "
 fi
 tput setaf 7; echo ""
-tput bold; tput setaf 6; echo "                                       By PAPAMICA                                       "
-tput bold; tput setaf 6; echo "                               wiki-tech.io / Tech2Tech.fr                               "
+tput bold; tput setaf 6; echo "                                       By Elias                                       "
+tput bold; tput setaf 6; echo "                                           CHAABANE                               "
 tput setaf 7; echo "----------------------------------------------------------------------------------------------------"
 tput setaf 2; echo ""
 
