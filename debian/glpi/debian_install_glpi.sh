@@ -23,8 +23,8 @@ tput bold; tput setaf 7; echo "           => INSTALLATION TERMINEE <=           
 tput setaf 7; echo ""
 tput setaf 7; echo "               Lien : $SERVER_IP:80               "
 tput setaf 7; echo ""
-tput bold; tput setaf 6; echo "                   By PAPAMICA                   "
-tput bold; tput setaf 6; echo "                   Labo-Tech.fr                   "
+tput bold; tput setaf 6; echo "                   By Elias                   "
+tput bold; tput setaf 6; echo "                   CHAABANE                  "
 tput setaf 7; echo "--------------------------------------------------"
 tput setaf 2; echo ""
 
